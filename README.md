@@ -1,2 +1,3 @@
 # vgg
-vgg11
+vgg32
+gvv14
